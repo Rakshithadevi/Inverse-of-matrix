@@ -4,6 +4,7 @@
 To write a program to perform selection sort and insertion sort using python programming.
 
 ## ALGORITHM:
+```
 Step 1:
 Import Numpy module as np.
  Step 2:
@@ -14,7 +15,7 @@ Get input from the user for number of rows and columns.
 Use nested lists to append list.
 #Step 5:
 Print the inverse of the array using np.linalg.inv
-
+```r5
 ## PROGRAM:
 import numpy as np
 l1,l2=[],[]
