@@ -4,19 +4,18 @@
 To write a program to perform selection sort and insertion sort using python programming.
 
 ## ALGORITHM:
-```
-Step 1:
+### Step 1:
 Import Numpy module as np.
- Step 2:
+### Step 2:
 Create empty lists.
- Step 3:
+### Step 3:
 Get input from the user for number of rows and columns.
- Step 4:
+### Step 4:
 Use nested lists to append list.
-#Step 5:
+### Step 5:
 Print the inverse of the array using np.linalg.inv
-```
 ## PROGRAM:
+```
 import numpy as np
 l1,l2=[],[]
 n1,n2=int(input()),int(input())
@@ -29,6 +28,7 @@ for i in range(n1):
 print(l2)
 a=np.linalg.inv(l2)
 print(a)
+```
 
 ## OUTPUT:
 
