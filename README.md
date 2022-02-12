@@ -15,7 +15,7 @@ Get input from the user for number of rows and columns.
 Use nested lists to append list.
 #Step 5:
 Print the inverse of the array using np.linalg.inv
-```r5
+```
 ## PROGRAM:
 import numpy as np
 l1,l2=[],[]
@@ -31,7 +31,7 @@ a=np.linalg.inv(l2)
 print(a)
 
 ## OUTPUT:
-Thus the program is written to perform inverse of matrix using python programming.
+
 
 
 ## RESULT:
