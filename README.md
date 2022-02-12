@@ -31,6 +31,8 @@ a=np.linalg.inv(l2)
 print(a)
 
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/94165326/153698584-4701455c-9f3a-483b-984e-1c9ad69a3bd2.png)
+
 
 
 
